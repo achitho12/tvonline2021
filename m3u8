@@ -72,3 +72,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6747_720p/index.
 
 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", ZEEBIOSKOP #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", ZEEBIOSKOP
 https://livestreaming-swiftserve-etslive.vidio.com/hls-b/ingest_6399_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", TEGARTV LAMPUNG #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", TEGARTV LAMPUNG
+http://wms.klikhost.com:1935/tegartv/live/chunklist.m3u8
