@@ -75,3 +75,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-b/ingest_6399_720p/index.
 
 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", TEGARTV LAMPUNG #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", TEGARTV LAMPUNG
 http://wms.klikhost.com:1935/tegartv/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY SPORT6 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY SPORT6
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
