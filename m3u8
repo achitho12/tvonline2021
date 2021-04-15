@@ -93,3 +93,15 @@ http://bit.ly/appona_neneta2
 
 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY NET SPORT 1 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY NET SPORT 1
 http://bit.ly/appona_neneta1
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", NET #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", NET
+http://bit.ly/appona_neneta_net
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", CCM #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", CCM
+http://bit.ly/appona_neneta_ccm
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", CELESTIAL MOVIES #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", CELESTIAL MOVIES
+http://bit.ly/appona_neneta_celestialmovies
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", MOVIES #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", MOVIES
+http://bit.ly/appona_neneta_movies
