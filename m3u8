@@ -51,3 +51,24 @@ https://livestreaming-swiftserve-etslive.vidio.com//hls-p/ingest_5409_720p/index
 
 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", JAKTV #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", JAKTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", CITRA MUSLIM #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", CITRA MUSLIM
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", CITRA ENTERTAINMENT #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", CITRA ENTERTAINMENT
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", CITRA BIOSKOP #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", CITRA BIOSKOP
+https://livestreaming-swiftserve-etslive.vidio.com//hls-p/ingest_6684_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", CITRA DANGDUT #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", CITRA DANGDUT
+https://livestreaming-swiftserve-etslive.vidio.com/hls-b/ingest_6587_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", CITRA DRAMA #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", CITRA DRAMA
+https://livestreaming-swiftserve-etslive.vidio.com/hls-b/ingest_6401_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", ZING #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", ZING
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6747_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", ZEEBIOSKOP #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", ZEEBIOSKOP
+https://livestreaming-swiftserve-etslive.vidio.com/hls-b/ingest_6399_720p/index.m3u8
