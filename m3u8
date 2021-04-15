@@ -76,5 +76,20 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-b/ingest_6399_720p/index.
 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", TEGARTV LAMPUNG #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", TEGARTV LAMPUNG
 http://wms.klikhost.com:1935/tegartv/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY SPORT6 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY SPORT6
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY NET SPORT 6 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY NET SPORT 6
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY NET SPORT 5 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY NET SPORT 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY NET SPORT 4 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY NET SPORT 4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY NET SPORT 3 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY NET SPORT 3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY NET SPORT 2 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY NET SPORT 2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Lokal", SKY NET SPORT 1 #EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/elangtv.JPG" group-title="Lokal", SKY NET SPORT 1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
